@@ -163,3 +163,4 @@ cython_debug/
 *.csv
 *.tab
 1976-2022-house.csv
+*.json
