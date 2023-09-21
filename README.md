@@ -13,3 +13,5 @@ Compiled as a class project for DS 6600: Data Engineering 1 in the PhD program i
 * [House Election Data](https://htmlpreview.github.io/?https://github.com/bryanchrist/contrans2023/blob/main/elections_house.html)
 
 * [Individual Member's Votes Data](https://htmlpreview.github.io/?https://github.com/bryanchrist/contrans2023/blob/main/member_votes.html)
+
+* [Congress Bills](https://jsonhero.io/j/WcutnTK7XtSH)
